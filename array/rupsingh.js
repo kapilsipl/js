@@ -10,4 +10,4 @@ heterogeneous[1];
 //multidimensions
 var multidimensions = ["Lenovo",[0, "HP", [5+5, 500]], "Sony"];
 multidimensions[0][2][0];
-10
+10 
